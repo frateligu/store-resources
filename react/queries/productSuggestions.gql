@@ -93,6 +93,8 @@ query productSuggestions(
             }
             Price
             ListPrice
+            Tax
+            taxPercentage
             PriceWithoutDiscount
             RewardValue
             PriceValidUntil
