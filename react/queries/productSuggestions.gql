@@ -104,6 +104,10 @@ query productSuggestions(
         id
         name
       }
+      clusterHighlights {
+        id
+        name
+      }
       properties {
         name
         values
